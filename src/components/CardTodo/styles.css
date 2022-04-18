@@ -1,0 +1,24 @@
+.home-card{
+    width: 50%;
+    height: 50%;
+    padding: 24px 24px;
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    background: #485460;
+    border-radius: 0.5rem;
+    justify-content: space-between;
+}
+.home-card button{
+    border: none;
+    padding: 10px;
+    outline: none;
+    border-radius: 0.5rem;
+    background: #c23616;
+    color: #fff;
+    font-weight: bold;
+}
+button:hover{
+   font-size: 15px;
+  filter: brightness(0.8);
+}
